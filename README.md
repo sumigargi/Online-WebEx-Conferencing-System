@@ -1,0 +1,2 @@
+# Online-WebEx-Conferencing-System
+WebEx web conferencing  combines file and presentation  sharing with voice, HD video and new Meeting Spaces. Web conferencing lets you meet with anyone, anywhere, in real time. WebEx combines desktop sharing through a web browser with phone conferencing and video, so everyone sees the same thing while you talk. The project is built using J2EE as front-end and SQL 10G as back-end.
